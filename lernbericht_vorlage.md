@@ -1,20 +1,24 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Danial Surmust
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In diesem Lernbericht zeige ich, was Cross-site request forgery ist.
 
 ## Was habe ich gelernt?
 
+Ich habe gelernt, wie man eine Cross-site request forgery durchführt und werde es in diesem Lern-Bericht dokumentieren.
 ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 ## Beschreibung
 
+
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
+Um es textlich darzustellen ist Cross-site request forgery ein sehr interessantes Thema. Einfack erklärt, man bekommt einen Link zugesendet und öffnet diesen dann. Diese hat dann oft eine SessionID. Diesselbe SessionID zu haben ist ein wichtiger Bestandteil von Cross-site request forgery. Der Opfert wird aufgefordet sich wieder einzuloggen. Bei erfolgreicher Anmeldung ist der Angreifer auch somit eingeloggt und hat dann den Account des Opfers.
+
+![image](https://user-images.githubusercontent.com/112334791/207864385-cdd8b6af-629b-4619-83de-537da09f5f0b.png)
+
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
