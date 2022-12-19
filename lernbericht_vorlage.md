@@ -19,7 +19,6 @@ Um es textlich darzustellen ist Cross-site request forgery ein sehr interessante
 
 ![image](https://user-images.githubusercontent.com/112334791/207864385-cdd8b6af-629b-4619-83de-537da09f5f0b.png)
 
-* Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
