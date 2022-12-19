@@ -3,7 +3,7 @@ Danial Surmust
 
 ## Einleitung
 
-In diesem Lernbericht zeige ich, was Cross-site request forgery ist.
+In diesem Modul haben wir das Thema "Applikationssicherheit" behandelt, darunter zu verstehen sind Dinge wie: verschiedene Angriffsarten (zum Beispiel Interpreter Injections, Cross Site Scripting, oder Cross Site Request Forgery), potenzielle Sicherheitslücken und wie man solchen Angriffen zuvorkommen kann. In diesem Lernbericht zeige ich, was Cross-site request forgery ist.
 
 ## Was habe ich gelernt?
 
